@@ -14,29 +14,15 @@ I enjoy working with Python, JavaScript, and modern web technologies to build cl
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=Java&logoColor=white"/
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=white"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-![Maor's GitHub stats](https://github-readme-stats.vercel.app/api?username=maorpinhas&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maorpinhas&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
-- Advanced Django & REST APIs  
-- Cloud Deployment with AWS  
-- Next.js and modern frontend techniques
-
----
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maorpinhas)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maor-pinhas)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maorpi438@gmail.com)
 
 ---
 
