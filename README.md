@@ -24,7 +24,7 @@
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maorpi438@gmail.com)
 
 ---
-- 📌 Please feel free to Check out my pinned repositories!
+### 📌 Please feel free to Check out my pinned repositories!
 ---
 
 <!-- Footer -->
